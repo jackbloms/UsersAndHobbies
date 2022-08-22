@@ -1,0 +1,23 @@
+@model Hobby
+
+<h1>Create a Hobby</h1>
+<a asp-controller="User" asp-action="Dashboard">Dashboard</a>
+<h1>Hobbies</h1>
+<form asp-controller="User"
+asp-action="Logout"
+method="POST"><button>Logout</button></form>
+
+<form asp-controller="Hobby" asp-action="CreateHobby" method="POST">
+    <div class="mb-3">
+        <label asp-for="Name"></label>
+        <span asp-validation-for="Name" class="text-danger font-weight-bold"></span>
+        <input asp-for="Name" class="form-control"/>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Description"></label>
+        <span asp-validation-for="Description" class="text-danger font-weight-bold"></span>
+        <textarea asp-for="Description" class="form-control"></textarea>
+    </div>
+    <button>Create</button>
+
+</form>

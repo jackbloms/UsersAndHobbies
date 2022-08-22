@@ -1,0 +1,33 @@
+@model List<Hobby>
+
+<h1>Hobbies</h1>
+<form asp-controller="User"
+asp-action="Logout"
+method="POST"><button>Logout</button></form>
+
+<table class="table">
+    <th>
+        <tr>
+            <td>Name</td>
+            <td>Enthusiasts</td>
+        </tr>
+    </th>
+    @foreach (Hobby hob in Model)
+    {
+        <tbody>
+            <tr>
+                <td><a asp-controller="Hobby"
+                asp-action="DetailPage"
+                asp-route-hId="@hob.HobbyId">
+                @hob.Name</a></td>
+                <td>@hob.Users.Count</td>
+            </tr>
+        </tbody>
+    }
+</table>
+
+
+<a asp-controller="Hobby" asp-action="NewHobby" class="btn btn-primary">Create Hobby</a>
+
+
+

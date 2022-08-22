@@ -1,0 +1,45 @@
+@model Hobby
+
+<h1>@Model.Name</h1>
+
+<a asp-controller="User" asp-action="Dashboard">Dashboard</a>
+<h1>Hobbies</h1>
+<form asp-controller="User"
+asp-action="Logout"
+method="POST"><button>Logout</button></form>
+
+<h2>Description:</h2>
+<p>@Model.Description</p>
+
+<h2>@Model.Name Enthusiasts</h2>
+@foreach (Association a in ViewBag.ass)
+{
+    <p>@a.User.FirstName</p>
+}
+
+@* @if()
+{
+
+} *@
+
+<h2>Become an Enthusiast!</h2>
+<form asp-controller="Hobby"
+asp-action="Enthusiast"
+asp-route-hId="@Model.HobbyId">
+<button>Add to Hobbies</button>
+</form>
+
+@* <form asp-controller="Hobby"
+asp-action="Unlike"
+asp-route-hId="@Model.HobbyId">
+<button>Delete from Hobbies</button>
+</form> *@
+
+
+
+
+@* 
+-create un-like button and route in controller...
+use if statements like WedPlanner to properly display
+the correct button
+ *@
