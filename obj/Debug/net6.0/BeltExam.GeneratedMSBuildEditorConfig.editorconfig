@@ -8,61 +8,61 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BeltExam
 build_property.RootNamespace = BeltExam
-build_property.ProjectDir = c:\Users\Jack Blomstrand\OneDrive\My Shit\Coding Dojo\Dojo\C-sharp\Week 3\W3D5\BeltExam\
+build_property.ProjectDir = C:\Users\Jack Blomstrand\OneDrive\My Shit\Coding Dojo\Dojo\C-sharp\Week 3\W3D5\BeltExam\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\Jack Blomstrand\OneDrive\My Shit\Coding Dojo\Dojo\C-sharp\Week 3\W3D5\BeltExam
+build_property.MSBuildProjectDirectory = C:\Users\Jack Blomstrand\OneDrive\My Shit\Coding Dojo\Dojo\C-sharp\Week 3\W3D5\BeltExam
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/Jack Blomstrand/OneDrive/My Shit/Coding Dojo/Dojo/C-sharp/Week 3/W3D5/BeltExam/Views/Hobby/DetailPage.cshtml]
+[C:/Users/Jack Blomstrand/OneDrive/My Shit/Coding Dojo/Dojo/C-sharp/Week 3/W3D5/BeltExam/Views/Hobby/DetailPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9iYnlcRGV0YWlsUGFnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Jack Blomstrand/OneDrive/My Shit/Coding Dojo/Dojo/C-sharp/Week 3/W3D5/BeltExam/Views/Hobby/NewHobby.cshtml]
+[C:/Users/Jack Blomstrand/OneDrive/My Shit/Coding Dojo/Dojo/C-sharp/Week 3/W3D5/BeltExam/Views/Hobby/NewHobby.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9iYnlcTmV3SG9iYnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Jack Blomstrand/OneDrive/My Shit/Coding Dojo/Dojo/C-sharp/Week 3/W3D5/BeltExam/Views/Home/Index.cshtml]
+[C:/Users/Jack Blomstrand/OneDrive/My Shit/Coding Dojo/Dojo/C-sharp/Week 3/W3D5/BeltExam/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Jack Blomstrand/OneDrive/My Shit/Coding Dojo/Dojo/C-sharp/Week 3/W3D5/BeltExam/Views/Home/Privacy.cshtml]
+[C:/Users/Jack Blomstrand/OneDrive/My Shit/Coding Dojo/Dojo/C-sharp/Week 3/W3D5/BeltExam/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Jack Blomstrand/OneDrive/My Shit/Coding Dojo/Dojo/C-sharp/Week 3/W3D5/BeltExam/Views/Shared/Dashboard.cshtml]
+[C:/Users/Jack Blomstrand/OneDrive/My Shit/Coding Dojo/Dojo/C-sharp/Week 3/W3D5/BeltExam/Views/Shared/Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXERhc2hib2FyZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Jack Blomstrand/OneDrive/My Shit/Coding Dojo/Dojo/C-sharp/Week 3/W3D5/BeltExam/Views/Shared/Error.cshtml]
+[C:/Users/Jack Blomstrand/OneDrive/My Shit/Coding Dojo/Dojo/C-sharp/Week 3/W3D5/BeltExam/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Jack Blomstrand/OneDrive/My Shit/Coding Dojo/Dojo/C-sharp/Week 3/W3D5/BeltExam/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Jack Blomstrand/OneDrive/My Shit/Coding Dojo/Dojo/C-sharp/Week 3/W3D5/BeltExam/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Jack Blomstrand/OneDrive/My Shit/Coding Dojo/Dojo/C-sharp/Week 3/W3D5/BeltExam/Views/User/LogAndReg.cshtml]
+[C:/Users/Jack Blomstrand/OneDrive/My Shit/Coding Dojo/Dojo/C-sharp/Week 3/W3D5/BeltExam/Views/User/LogAndReg.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxMb2dBbmRSZWcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Jack Blomstrand/OneDrive/My Shit/Coding Dojo/Dojo/C-sharp/Week 3/W3D5/BeltExam/Views/User/_Login.cshtml]
+[C:/Users/Jack Blomstrand/OneDrive/My Shit/Coding Dojo/Dojo/C-sharp/Week 3/W3D5/BeltExam/Views/User/_Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxfTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Jack Blomstrand/OneDrive/My Shit/Coding Dojo/Dojo/C-sharp/Week 3/W3D5/BeltExam/Views/User/_Register.cshtml]
+[C:/Users/Jack Blomstrand/OneDrive/My Shit/Coding Dojo/Dojo/C-sharp/Week 3/W3D5/BeltExam/Views/User/_Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxfUmVnaXN0ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Jack Blomstrand/OneDrive/My Shit/Coding Dojo/Dojo/C-sharp/Week 3/W3D5/BeltExam/Views/_ViewImports.cshtml]
+[C:/Users/Jack Blomstrand/OneDrive/My Shit/Coding Dojo/Dojo/C-sharp/Week 3/W3D5/BeltExam/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Jack Blomstrand/OneDrive/My Shit/Coding Dojo/Dojo/C-sharp/Week 3/W3D5/BeltExam/Views/_ViewStart.cshtml]
+[C:/Users/Jack Blomstrand/OneDrive/My Shit/Coding Dojo/Dojo/C-sharp/Week 3/W3D5/BeltExam/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Jack Blomstrand/OneDrive/My Shit/Coding Dojo/Dojo/C-sharp/Week 3/W3D5/BeltExam/Views/Shared/_Layout.cshtml]
+[C:/Users/Jack Blomstrand/OneDrive/My Shit/Coding Dojo/Dojo/C-sharp/Week 3/W3D5/BeltExam/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-yxcmep9odk
